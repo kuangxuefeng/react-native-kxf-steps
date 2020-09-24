@@ -1,7 +1,7 @@
 {
   "name": "react-native-kxf-steps",
   "version": "1.0.0",
-  "description": "",
+  "description": "步骤条",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +9,7 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
+  "author": "xuefeng.kuang",
   "license": "",
   "peerDependencies": {
     "react-native": "^0.41.2",
