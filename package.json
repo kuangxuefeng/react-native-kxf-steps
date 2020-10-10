@@ -1,6 +1,6 @@
 {
   "name": "react-native-kxf-steps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "步骤条",
   "main": "index.js",
   "scripts": {
